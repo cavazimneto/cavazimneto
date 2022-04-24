@@ -4,4 +4,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavazimneto&layout=compact&langs_count=25&theme=radical"/>
 </div>
 
-![Snake animation](https://github.com/cavazimneto/cavazimneto/cavazimneto/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cavazimneto/cavazimneto/blob/output/github-contribution-grid-snake.svg)
